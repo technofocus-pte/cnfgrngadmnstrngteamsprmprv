@@ -2,9 +2,11 @@
 
 In this course learners will explore Microsoft Syntex in-depth, focusing on its core content AI services, capabilities and applications. Learners will learn about what is Microsoft Syntex, its licensing, and hands-on creation of enterprise and custom models, including document processing techniques. Then they will delve into Syntex services like content assembly, eSignature, document translation, and image/tag management, paired with practical labs on those features. Learners will also learn about adoption strategies, use cases such as document generation, compliance, and automation, alongside hands-on experience with routine document processing, content search, and handling
 
-Duration: 3 Days (4hrs/day)
-Level: Intermediate
-Course Prerequisites: Basic knowledge of SharePoint document library
+**Duration**: 3 Days (4hrs/day)
+
+**Level**: Intermediate
+
+**Course Prerequisites**: Basic knowledge of SharePoint document library
 
 # **Table of Contents**
 ## Lab Setup
