@@ -47,10 +47,8 @@ library view. The files will also display the values from each contract
 that you defined in your extractor.
 
 If you have retention or security requirements for your contracts, you
-can also use your model to apply a [retention
-label](https://learn.microsoft.com/en-gb/microsoft-365/syntex/apply-a-retention-label-to-a-model?view=o365-worldwide) or
-a [sensitivity
-label](https://learn.microsoft.com/en-gb/microsoft-365/syntex/apply-a-sensitivity-label-to-a-model?view=o365-worldwide) that
+can also use your model to apply a retention
+label or a sensitivity label that
 will prevent your contracts from being deleted for a specified period of
 time or to restrict who can access the contracts.
 
@@ -59,7 +57,7 @@ time or to restrict who can access the contracts.
 The first step is to create your Contract model.
 
 1.  Open a new tab and navigate to
-    \`\`\`https://admin.microsoft.com/\`\`\`, and log in using the
+    ```https://admin.microsoft.com/```, and log in using the
     administrator credentials if not already open.
 
 2.  From the left navigation, select **Show all**.
@@ -91,7 +89,7 @@ The first step is to create your Contract model.
 
 7.  Fill in the following details and select **Next**.
 
-- Name: \`\`\`Contract Management Solution\`\`\`
+- Name: ```Contract Management Solution```
 
 - Primary administrator: **MOD Administrator**
 
@@ -126,7 +124,7 @@ The first step is to create your Contract model.
 
 13. On the **Create a model with the teaching method** pane, in
     the **Name** field, type the name of the model. For this contract
-    management solution, you can name the model \`\`\`Contract\`\`\`.
+    management solution, you can name the model ```Contract```.
     Choose **Create**.
 
 > ![A screenshot of a computer Description automatically
@@ -216,16 +214,14 @@ statement of work).
 
 4.  On the **Create an explanation** page:
 
-&nbsp;
-
 1)  In the **Name** field, type the name of the explanation
-    \`\`\`Agreement\`\`\`.
+    ```Agreement```.
 
 2)  In the **Explanation type** field, select **Phrase list**, because
     you add a text string.
 
-3)  In the **Phrase list** box, type the string \`\`\`THIS CONSULTING
-    AGREEMENT\`\`\`.
+3)  In the **Phrase list** box, type the string ```THIS CONSULTING
+    AGREEMENT```.
 
 4)  Select **Save and train**.
 
@@ -246,7 +242,7 @@ the model is trained.
 > ![](./media/image25.png)
 
 2.  On the **New entity extractor** panel, in the **New name** field,
-    type \`\`\`Client\`\`\` as the name of your extractor. When you're
+    type ```Client``` as the name of your extractor. When you're
     done, select **Create**.
 
 > ![A screenshot of a computer Description automatically
@@ -293,11 +289,11 @@ explanation.
 2.  On the **Create an explanation** page:
 
 - In the **Name** field, type the name of the explanation
-  as \`\`\`Client Name Start\`\`\`*.*
+  as ```Client Name Start```*.*
 
 - In the **Explanation type** field, select **Phrase list**.
 
-- In the **Value** field type \`\`\`BETWEEN:\`\`\`.
+- In the **Value** field type ```BETWEEN:```.
 
 - Select **Save and train**.
 
@@ -310,11 +306,11 @@ explanation.
 4.  On the **Create an explanation** page:
 
 - In the **Name** field, type the name of the explanation
-  as \`\`\`Client Name End\`\`\`*.*
+  as ```Client Name End```*.*
 
 - In the **Explanation type** field, select **Phrase list**.
 
-- In the **Value** field type \`\`\`OF\`\`\`.
+- In the **Value** field type ```OF```.
 
 - Select **Save and train**.
 
@@ -334,7 +330,7 @@ explanation.
 2.  Repeat the steps to create a **Date extractor** with the following
     information and then label the extractor:
 
-- Name: \`\`\`Contract Date\`\`\`
+- Name: ```Contract Date```
 
 > ![](./media/image35.png)
 
@@ -351,7 +347,7 @@ explanation.
 5.  On the **Create an explanation** page:
 
 - In the **Name** field, type the name of the explanation as
-  \`\`\`Date\`\`\`.
+  ```Date```.
 
 - In the **Explanation type** field, select **Phrase list**.
 
@@ -373,12 +369,12 @@ explanation.
 
 7.  On the **Create an explanation** page:
 
-- In the **Name** field, type the name of the explanation as \`\`\`Date
-  start\`\`\`.
+- In the **Name** field, type the name of the explanation as ```Date
+  start```.
 
 - In the **Explanation type** field, select **Phrase list**.
 
-- In the **Value** field type \`\`\`dated\`\`\`.
+- In the **Value** field type ```dated```.
 
 - Select **Save and train**.
 
@@ -446,9 +442,9 @@ all the contracts are uploaded.
 > ![A screenshot of a computer Description automatically
 > generated](./media/image48.png)
 
-- On **Create a column** pane, for **Name** type \`\`\`Approval
-  Status\`\`\`, and for values type \`\`\`In
-  review\`\`\`, \`\`\`Approved\`\`\`, and \`\`\`Rejected\`\`\`.
+- On **Create a column** pane, for **Name** type ```Approval
+  Status```, and for values type ```In
+  review```, ```Approved```, and ```Rejected```.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image49.png)
@@ -459,7 +455,7 @@ upload the same files to this site that we used for training. You can
 use any other contract files, similar to the one used for training.
 
 8.  Select **Upload \> Files** from the top bar and select the files
-    from **c:\Labfiles\\** **Contracts Management**.
+    from **c:\Labfiles\Contracts Management**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image50.png)
@@ -531,11 +527,7 @@ Teams channel and use the features in Teams to:
 
 ### Task 1: Attach your SharePoint document library to the Contracts tab
 
-1.  Navigate to \`\`\`https://teams.microsoft.com/\`\`\`.
-
-&nbsp;
-
-1.  Select **teams**. Click three dots on **Contoso** and select **+Add
+1.  Navigate to ```https://teams.microsoft.com/```. Select **teams**. Click three dots on **Contoso** and select **+Add
     a tab**.
 
 > ![A screenshot of a computer Description automatically
@@ -562,7 +554,7 @@ Teams channel and use the features in Teams to:
 > ![A screenshot of a computer Description automatically
 > generated](./media/image59.png)
 
-6.  On **Rename Files** dialog enter \`\`\`Contracts\`\`\` for tab name
+6.  On **Rename Files** dialog enter ```Contracts``` for tab name
     and click **Save.**
 
 > ![](./media/image60.png)
@@ -587,7 +579,7 @@ Let us change the view of the files.
 The custom tile view you use requires you to make changes to the JSON
 file used to format the current tile view. You can reference the JSON
 file used to create the card view by looking at
-the [ContractTileFormatting.json](https://github.com/pnp/syntex-samples/blob/main/scenario-samples/Contracts-Management/View%20Formatter/ContractTileFormatting.json) file.
+the ContractTileFormatting.json file.
 In the following sections, you'll see specific sections of the code for
 features that are in the contract cards.
 
@@ -866,7 +858,7 @@ uses the value for the specific contract.
 
     - In the address bar check the **URL**. You will find the internal
       name of your field after the ‘Field’. For example here it is
-      https://m365x91851961.sharepoint.com/sites/ContractManagementSolutions/Prime/Forms/AllItems.aspx?isAscending=true&sort**Field=ApprovalStatus**&viewid=f0b6d5f9%2D69f2%2D424a%2Da407%2D01f08d516af6
+      https://m365x91851961.sharepoint.com/sites/ContractManagementSolutions/Prime/Forms/AllItems.aspx?isAscending=true&sortField=ApprovalStatus&viewid=f0b6d5f9%2D69f2%2D424a%2Da407%2D01f08d516af6
 
     - Copy the name of the field and update the name of those fields in
       Json. Here we will replace **\[$Status\]** with
@@ -907,14 +899,14 @@ management solution.
 
 ### Task 1: Prepare your contract for review
 
-1.  Navigate to \`\`\`https://flow.microsoft.com\`\`\` and click **My
+1.  Navigate to ```https://flow.microsoft.com``` and click **My
     flows** from left navigation menu then click **New** and select
     **Automated cloud flow**.
 
 > ![](./media/image65.png)
 
-7.  On **New Automated cloud flow** pane, enter \`\`\`Content
-    understanding\`\`\` and select **When a file is classified by a
+7.  On **New Automated cloud flow** pane, enter ```Content
+    understanding``` and select **When a file is classified by a
     Microsoft Syntex** then click **Create**.
 
 > ![A screenshot of a computer Description automatically
@@ -998,10 +990,10 @@ will be either approved or rejected.
 
 17. In the first **Choose a value** box, go to **Add dynamic content**
     \> **Expressions** \> type
-    \`\`\`body(‘card’)?\[‘data’\]?\[‘x’\]\`\`\`.
+    ```body(‘card’)?\[‘data’\]?\[‘x’\]```.
 
 18. In the next box select is equal to and then in the next **Choose a
-    value** box, type \`\`\`Approve\`\`\`.
+    value** box, type ```Approve```.
 
 > ![](./media/image76.png)
 
