@@ -29,7 +29,7 @@ To create a new content center:
 > ![A screenshot of a web page Description automatically
 > generated](./media/image4.png)
 
-6.  On the **Choose a template** menu, select **Content cente**r.
+6.  On the **Choose a template** menu, select **Content center**.
 
 7.  For the new site, provide the following information
 
@@ -479,7 +479,7 @@ Content Center site to see the information filled up in the columns.
 > ![A screenshot of a computer Description automatically
 > generated](./media/image62.png)
 
-18. Click **+**icon on **Collection 1** box under **Add documents**.
+18. Click **+** icon on **Collection 1** box under **Add documents**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image63.png)
@@ -729,7 +729,7 @@ and applied it to a library.
 > ![A screenshot of a computer Description automatically
 > generated](./media/image95.png)
 
-19. Click **+**icon on **Collection 1** box under **Add documents**.
+19. Click **+** icon on **Collection 1** box under **Add documents**.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image96.png)
@@ -777,7 +777,7 @@ and applied it to a library.
 
 28. On **Collection 1** pane on right, the fields will have green checks
     as you have selected **Trade**, **Customer** and **Total**. Do this
-    for all the 5 documents**.**
+    for all the 5 documents.
 
 > ![A screenshot of a computer Description automatically
 > generated](./media/image104.png)
